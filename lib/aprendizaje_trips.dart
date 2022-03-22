@@ -1,8 +1,8 @@
-import 'package:avanzadoaprendizaje/profile_trips.dart';
-import 'package:avanzadoaprendizaje/search_trips.dart';
+import 'package:avanzadoaprendizaje/User/ui/screens/profile_trips.dart';
+import 'package:avanzadoaprendizaje/Place/ui/screens/search_trips.dart';
 import 'package:flutter/material.dart';
 
-import 'home_trips.dart';
+import 'Place/ui/screens/home_trips.dart';
 
 class AprendizajeTrips extends StatefulWidget {
   @override
