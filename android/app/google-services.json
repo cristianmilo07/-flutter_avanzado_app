@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1077945399696",
+    "project_id": "avanzadoaprendizajeflutter",
+    "storage_bucket": "avanzadoaprendizajeflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077945399696:android:02875059d15506a21c1b15",
+        "android_client_info": {
+          "package_name": "com.example.avanzadoaprendizaje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077945399696-7q5ektjkh6d1ra0r47r7d6nv8e8spq2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8DRO45UrhbpoP-pAOQGTAy4h34q_3u1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077945399696-7q5ektjkh6d1ra0r47r7d6nv8e8spq2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
